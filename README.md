@@ -35,7 +35,7 @@ streamlit run app.py
 
 ## Usage
 
-1. Upload your dataset by clicking the "Upload a dataset" button in the sidebar.
+1. Upload your dataset by clicking the "Upload a dataset" button in the sidebar (you can try the iris.csv in test/).
 2. Select columns for analysis from the dropdown menus in the sidebar.
 3. Explore the data using the various EDA options available in the sidebar checkboxes.
 4. Visualize the data using the displayed charts and statistics.
