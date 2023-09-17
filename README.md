@@ -40,6 +40,20 @@ streamlit run app.py
 3. Explore the data using the various EDA options available in the sidebar checkboxes.
 4. Visualize the data using the displayed charts and statistics.
 
+## Docker
+
+To run the Docker image and use the EDA app:
+
+Pull the Docker image:
+```docker pull dikens2000/streamlit_eda``` 
+
+Run the Docker container:
+```docker run -p 8501:8501 dikens2000/streamlit_eda``` 
+
+Open your web browser and navigate to http://localhost:8501 to access the app.
+
+[Docker Hub link](https://hub.docker.com/repository/docker/dikens2000/streamlit_eda/general)
+
 ## Screenshots
 
 ![Sample Screenshot](https://i.imgur.com/9qbJ3sE.png)
