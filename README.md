@@ -32,6 +32,7 @@ streamlit run app.py
 
 4. Open your web browser and navigate to the URL displayed in the terminal to use the app.
 
+
 ## Usage
 
 1. Upload your dataset by clicking the "Upload a dataset" button in the sidebar.
@@ -41,7 +42,7 @@ streamlit run app.py
 
 ## Screenshots
 
-![Sample Screenshot](https://imgur.com/9qbJ3sE)
+![Sample Screenshot](https://i.imgur.com/9qbJ3sE.png)
 
 ## Customization
 
